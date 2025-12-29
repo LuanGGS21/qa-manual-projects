@@ -13,15 +13,15 @@ Passos para reproduzir
 3. Inserir senha inválida
 4. Clicar em "Login"
 
-Resultado esperado
+**Resultado esperado:**
 
 Sistema deve exibir mensagem informando que a senha está incorreta ou que as credenciais são inválidas.
 
-Resultado obtido
+**Resultado obtido:**
 
 Sistema exibe mensagem informando que o username é inválido, mesmo quando o username informado é válido.
 
-Evidência
+**Evidência:**
 
 Print anexado demonstrando a inconsistência da mensagem de erro.
 ![Erro de mensagem incorreta](../screenshots/3814162c-eb2f-4f9d-aa4d-fa2b2728ad75.png)
