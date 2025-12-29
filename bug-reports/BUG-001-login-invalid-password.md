@@ -24,3 +24,4 @@ Sistema exibe mensagem informando que o username é inválido, mesmo quando o us
 Evidência
 
 Print anexado demonstrando a inconsistência da mensagem de erro.
+![Erro de mensagem incorreta](../screenshots/bug-001-login-senha-invalida.png)
