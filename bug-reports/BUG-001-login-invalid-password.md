@@ -4,10 +4,12 @@ BUG-001 – Mensagem incorreta ao inserir senha inválida
 **Prioridade:** Média  
 **Severidade:** Baixa  
 
-Pré-condição
+**Pré-condição:**
+
 Usuário válido cadastrado no sistema.
 
 Passos para reproduzir
+
 1. Acessar a página de login
 2. Inserir username válido
 3. Inserir senha inválida
