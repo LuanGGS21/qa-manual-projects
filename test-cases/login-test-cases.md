@@ -9,6 +9,7 @@ CT-001 – Login com credenciais válidas
 4. Clicar em "Entrar"
 
 **Resultado esperado:** Usuário autenticado com sucesso
+
 **Resultado obtido:** Login realizado com sucesso
 
 ---
@@ -21,6 +22,7 @@ CT-002 – Login com senha inválida
 4. Clicar em "Entrar"
 
 **Resultado esperado:** Mensagem de erro informando credenciais inválidas
+
 **Resultado obtido:** Login não realizado, mostrada mensagem de erro
 
 ---
@@ -32,4 +34,5 @@ CT-003 – Campos vazios
 3. Clicar em "Entrar"
 
 **Resultado esperado:** Sistema impede login e exibe mensagem de validação
+
 **Resultado obtido:** Login não realizado, impedido pelo sistema
