@@ -1,4 +1,4 @@
-# Smoke Test – Login
+Smoke Test – Login
 
 - [ ✔ ] Página de login carrega corretamente
 - [ ✔ ] Campo de e-mail disponível
